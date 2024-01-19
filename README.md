@@ -11,7 +11,8 @@ What you need for the project so it works:
 
 ![Surprising Kasi](https://github.com/Yodakole1/arduino_calculator/assets/119262845/bf492aa0-5b2f-4a08-94dc-73307c04fc7f)
 
+Schematic is made using [TINCKERCAD](https://www.tinkercad.com/).
 
-LCD project coming soon...
+
 
 Download [Arduino IDE](https://www.arduino.cc/en/software) and run the code.
