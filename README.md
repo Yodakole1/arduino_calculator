@@ -3,7 +3,7 @@
 What you need for the project so it works:
 1. Arduino board (i used uno)
 2. 4x4 Keypad
-3. 8 wires
+3. 8 male-female wires(I recommend using two colors one for rows and one for columns)
 
 
 
