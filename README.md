@@ -11,7 +11,6 @@ What you need for the project so it works:
 
 ![Surprising Kasi](https://github.com/Yodakole1/arduino_calculator/assets/119262845/bf492aa0-5b2f-4a08-94dc-73307c04fc7f)
 
-Displays result in your IDE.
 
 LCD project coming soon...
 
