@@ -13,6 +13,6 @@ What you need for the project so it works:
 
 Schematic is made using [TINCKERCAD](https://www.tinkercad.com/).
 
-
+[Calculator with LCD](https://github.com/Yodakole1/arduino_lcd_calculator).
 
 Download [Arduino IDE](https://www.arduino.cc/en/software) and run the code.
